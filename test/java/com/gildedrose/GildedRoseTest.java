@@ -130,6 +130,7 @@ class GildedRoseTest {
         app.updateQuality();
         assertEquals(6, items[0].quality);
     }
+
     */
 
 }
